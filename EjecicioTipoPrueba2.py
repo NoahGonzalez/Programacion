@@ -93,7 +93,7 @@ while (True):
     
     elif opcion ==6:
         print ("ESTADISTICAS")
-        
+        print("peo")
         acum=0
         products=len(lista)
         acum(lista)
